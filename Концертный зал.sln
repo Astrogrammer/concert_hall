@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Концертный зал", "Концертный зал\Концертный зал.csproj", "{06CAC632-A95A-4008-A593-FF8806CF348D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Office", "Концертный зал\Ticket Office.csproj", "{E05FA89A-7DF0-48FA-BF4A-CB9C972BD8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CAC632-A95A-4008-A593-FF8806CF348D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CAC632-A95A-4008-A593-FF8806CF348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CAC632-A95A-4008-A593-FF8806CF348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CAC632-A95A-4008-A593-FF8806CF348D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05FA89A-7DF0-48FA-BF4A-CB9C972BD8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05FA89A-7DF0-48FA-BF4A-CB9C972BD8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05FA89A-7DF0-48FA-BF4A-CB9C972BD8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05FA89A-7DF0-48FA-BF4A-CB9C972BD8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D16BD0-70A0-4D5F-8D02-5B06FB2CD079}
+	EndGlobalSection
+EndGlobal
