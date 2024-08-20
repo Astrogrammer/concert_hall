@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Концертный зал\Концертный зал\bin\Debug\Концертный зал.exe.config
+C:\Users\1\Desktop\Концертный зал\Концертный зал\bin\Debug\Концертный зал.exe
+C:\Users\1\Desktop\Концертный зал\Концертный зал\bin\Debug\Концертный зал.pdb
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный_зал.Properties.Resources.resources
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.csproj.CopyComplete
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.exe
+C:\Users\1\Desktop\Концертный зал\Концертный зал\obj\Debug\Концертный зал.pdb
